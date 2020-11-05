@@ -1,0 +1,47 @@
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.deps.json
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.runtimeconfig.json
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.runtimeconfig.dev.json
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.dll
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.pdb
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.csprojAssemblyReference.cache
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.csproj.CoreCompileInputs.cache
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.AssemblyInfoInputs.cache
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.AssemblyInfo.cs
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.dll
+D:\D drive old laptop\Assignment\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.pdb
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.deps.json
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.runtimeconfig.json
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.runtimeconfig.dev.json
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.dll
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.pdb
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.csprojAssemblyReference.cache
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.AssemblyInfoInputs.cache
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.AssemblyInfo.cs
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.dll
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.pdb
+C:\Users\Bibek\Desktop\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.genruntimeconfig.cache
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.deps.json
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.runtimeconfig.json
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.runtimeconfig.dev.json
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.dll
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.pdb
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.csprojAssemblyReference.cache
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.AssemblyInfoInputs.cache
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.AssemblyInfo.cs
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.dll
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.pdb
+C:\Users\Bibek\Desktop\project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritence\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.genruntimeconfig.cache
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.deps.json
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.runtimeconfig.json
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.runtimeconfig.dev.json
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.dll
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\bin\Debug\netcoreapp2.1\Assignment_Inheritence.pdb
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.csprojAssemblyReference.cache
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.AssemblyInfoInputs.cache
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.AssemblyInfo.cs
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.dll
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.pdb
+C:\Users\Bibek\Desktop\internships\c#-project\c#_project\_Final Assignment_Inheritence (1)\Assignment_Inheritence\Assignment_Inheritance\Assignment_Inheritence\obj\Debug\netcoreapp2.1\Assignment_Inheritence.genruntimeconfig.cache

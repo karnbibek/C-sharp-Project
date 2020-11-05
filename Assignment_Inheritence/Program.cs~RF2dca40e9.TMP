@@ -1,0 +1,27 @@
+﻿using System;
+
+namespace Assignment_Inheritence
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+		//Parse teh XML file SchoolInfo.xml present in solution folder, This xml file has several records of students and teachers. 
+		//Create a dynamic list and store both students and teachers information in this dynamic list
+		//While parsing students information shall be stored in StudentDerivedClass
+            //TODO: Step1: Create a list of PersonBaseClass object
+            //TODO: Step2: Parse the xml file (File Name = "Schoolnfo.xml")
+            //TODO: Step3: While Parsing xml you need to find if the current record is of teacher or student.
+            //TODO: Step4: on finding a student's record Create an instance of StudentDerivedClass, store all information 
+            //TODO:         you read from xml record in StudentDerivedClass's instance.
+            //TODO: Step5: Store the StudentDerivedClass's instance in PersonBaseClass's list which you created in Step1
+            //TODO: Step6: on finding a Teacher's record Create an instance of TeacherDerivedClass, store all information 
+            //TODO:         you read from xml record in TeachertDerivedClass's instance.
+            //TODO: Step7: Store the StudentDerivedClass's instance in PersonBaseClass's list which you created in Step1
+            //TODO: Step8: After completing xml file parse, run a loop on PersonBaseClass's list which was created in step1,.
+            //TODO: Step9: In foreach loop find the instance type(Student/Teacher) and console print the all details(e.g. Name, age, salary, average)
+            //              of each instance in list.            
+            Console.WriteLine("Hello World!");
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxXfTNnYkyp16GjvFSZJu0+EILpE/DQ+UREU+OQH8O0M4wl6x8bUxGb9l3kQHPpas2mKfBp2DPYkTRf3CGBw7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bibek\\Desktop\\internships\\c#-project\\c#_project\\_Final Assignment_Inheritence (1)\\Assignment_Inheritence\\Assignment_Inheritance\\Assignment_Inheritence\\Assignment_Inheritence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bibek\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bibek\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bibek\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bibek\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bibek\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bibek\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bibek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

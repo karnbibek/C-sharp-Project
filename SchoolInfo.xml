@@ -1,0 +1,114 @@
+<People>   
+    <Teacher>
+        <Name> Akshay</Name>
+        <Age> 27 </Age>
+        <Designation> Teacher </Designation>
+        <Experience> 3 </Experience>
+        <Salary> 25000 </Salary>
+    </Teacher>    
+    <Student>
+        <Name> Sagar </Name>
+        <Class> 8 </Class>
+        <Age> 13 </Age>
+        <Average> 67 </Average>
+    </Student>
+    <Teacher>
+        <Name> Sohan </Name>
+        <Designation> Head Master </Designation>
+        <Age> 35 </Age>
+        <Experience> 5 </Experience>
+        <Salary> 40574 </Salary>
+    </Teacher>
+    <Student>
+        <Name> Ballu </Name>
+        <Class> 5 </Class>
+        <Age> 10 </Age>
+        <Average> 80 </Average>
+    </Student>
+    <Student>
+        <Name> Akarsh </Name>
+        <Class> 3 </Class>
+        <Age> 8 </Age>
+        <Average> 88 </Average>
+    </Student>
+    <Student>
+        <Name> Vishwanath </Name>
+        <Class> 9 </Class>
+        <Age> 14 </Age>
+        <Average> 95 </Average>
+    </Student>
+    <Student>
+        <Name> Allauddin </Name>
+        <Class> 6 </Class>
+        <Age> 12 </Age>
+        <Average> 90 </Average>
+    </Student>
+    <Teacher>
+        <Name> Vinay </Name>
+        <Age> 30 </Age>
+        <Designation> Teacher </Designation>
+        <Experience> 2 </Experience>
+        <Salary> 20000 </Salary>
+    </Teacher>
+    <Student>
+        <Name> RaviKiran </Name>
+        <Class> 1 </Class>
+        <Age> 6 </Age>
+        <Average> 79 </Average>
+    </Student>
+    <Student>
+        <Name> Avinash </Name>
+        <Class> 10 </Class>
+        <Age> 15 </Age>
+        <Average> 83 </Average>
+    </Student>
+    <Student>
+        <Name> Narendran </Name>
+        <Class> 7 </Class>
+        <Age> 12 </Age>
+        <Average> 55 </Average>
+    </Student>
+    <Student>
+        <Name> Rahul </Name>
+        <Class> 6 </Class>
+        <Age> 12 </Age>
+        <Average> 65 </Average>
+    </Student>
+    <Student>
+        <Name> Sidhu </Name>
+        <Class> 3 </Class>
+        <Age> 8 </Age>
+        <Average> 71 </Average>
+    </Student>
+    <Student>
+        <Name> Suresh </Name>
+        <Class> 7 </Class>
+        <Age> 12 </Age>
+        <Average> 53 </Average>
+    </Student>
+    <Student>
+        <Name> Amitesh </Name>
+        <Class> 5 </Class>
+        <Age> 10 </Age>
+        <Average> 82 </Average>
+    </Student>
+    <Student>
+        <Name> Rajan </Name>
+        <Class> 3 </Class>
+        <Age> 8 </Age>
+        <Average> 77 </Average>
+    </Student>    
+    <Student>
+        <Name> Sukesh </Name>
+        <Class> 4 </Class>
+        <Age> 9 </Age>
+        <Average> 54 </Average>
+    </Student>
+    <Teacher>
+        <Name> Dundesh </Name>
+        <Age> 32 </Age>
+        <Designation> Teacher </Designation>
+        <Experience> 6 </Experience>
+        <Salary> 40000 </Salary>
+    </Teacher>        
+</People>
